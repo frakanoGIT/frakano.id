@@ -8,7 +8,7 @@ export default function About() {
         <h1 className="text-8xl font-bold tracking-tight mb-16">
           Hi,
           <p className="my-8">
-            I'm <span className="text-pr-dark">Frakano</span>
+            I&apos;m <span className="text-pr-dark">Frakano</span>
           </p>
           <p className="my-8">Web Developer</p>
         </h1>

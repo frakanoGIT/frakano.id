@@ -1,7 +1,9 @@
 import React from "react";
 
+import SkillsMe from "../components/SkillsMe";
+
 export default function Page() {
     return (
-        <p>Skills Page</p>
+        <SkillsMe></SkillsMe>
     );
   }

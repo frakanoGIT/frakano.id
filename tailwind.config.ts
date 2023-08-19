@@ -20,9 +20,8 @@ const config: Config = {
       },
       maxWidth: {
         pr: '120rem'
-      }
-    },
-
+      },
+    }
   },
   plugins: [],
 }

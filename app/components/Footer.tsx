@@ -14,7 +14,7 @@ export default function Footer() {
                 height="32"
                 className="mr-1"
               />
-              <figcaption className="text-3xl  group-hover:border-b-2 group-hover:border-b-black">
+              <figcaption className="text-3xl text-gray-500 group-hover:text-black group-hover:border-b-2 group-hover:border-b-black">
                 Linkedin
               </figcaption>
             </figure>
@@ -28,7 +28,7 @@ export default function Footer() {
                 height="32"
                 className="mr-1"
               />
-              <figcaption className="text-3xl group-hover:border-b-2 group-hover:border-b-black">
+              <figcaption className="text-3xl text-gray-500 group-hover:text-black group-hover:border-b-2 group-hover:border-b-black">
                 Github
               </figcaption>
             </figure>
